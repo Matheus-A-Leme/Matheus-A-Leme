@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Matheus-A-Leme/portfolio/main/Estilo%20Terminal.png" alt="Banner Retro Tech" width="100%">
+</p>
 <h1 align="center">👨‍💻 Matheus Leme - Um Dev no Caminho Jedi</h1>
 
 <p align="center">
