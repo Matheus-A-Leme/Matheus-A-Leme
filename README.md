@@ -1,74 +1,74 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Matheus-A-Leme/portfolio/main/Estilo%20Terminal.png" alt="Banner Retro Tech" width="100%">
 </p>
-<h1 align="center">👨‍💻 Matheus Leme - Um Dev no Caminho Jedi</h1>
-
-<p align="center">
-🧩 Analista de Dados em construção | Explorador de código e dashboards <br>
-🚀 Missão atual: dominar o universo de dados com Python e Power BI <br>
-🧠 Curioso por tecnologia, café e soluções inteligentes
-</p>
-
----
-
-## 🧠 Níveis de Conhecimento
-
-### 🧪 Intermediário:
-- 🐍 Python
-- 🐬 MySQL
-- 📊 Power BI
-- 🔍 Looker (Data Studio)
-- 🧾 Pacote Office
-
-### 🎓 Básico:
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="BigQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  <img align="right" alt="Matheus-gif" height="150" width="150" src="https://i.picasion.com/pic91/9ebcb9e58ea82c0842562ca7a7d747f5.gif">
-</div>
-
----
-
-## ⚙️ Stats de Batalha
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-A-Leme&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-A-Leme&layout=compact&theme=tokyonight" />
+  <h1>👨‍💻 Matheus Leme - Um Dev no Caminho Jedi</h1>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Analista_de_Dados-Data%20Jedi-blue?style=flat-square" alt="Analista de Dados">
+    <img src="https://img.shields.io/badge/Power_BI-DAX%20Master-yellow?style=flat-square&logo=powerbi" alt="Power BI">
+    <img src="https://img.shields.io/badge/Python-Tkinter%20Dev-3776AB?style=flat-square&logo=python" alt="Python">
+  </p>
+  
+  🚀 Transformando dados em insights | ☕ Viciado em café e código
+</div>
+---
+
+🛠️ Arsenal Tecnológico
+🔥 Domínio Intermediário
+<div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google&logoColor=white"> <img src="https://img.shields.io/badge/Meeting-0078D4?style=for-the-badge&logo=microsoft-teams&logoColor=white"> <img src="https://img.shields.io/badge/IA's-FF6D00?style=for-the-badge&logo=openai&logoColor=white"> </div>
+🤖 Ferramentas de IA
+<div align="center"> <img src="https://img.shields.io/badge/DeepSeek-000000?style=flat-square&logo=ai&logoColor=white"> <img src="https://img.shields.io/badge/Grok_3-8A2BE2?style=flat-square&logo=x&logoColor=white"> <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"> </div>
+📚 Conhecimento Básico
+<div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white"> </div>
+---
+
+## 📊 GitHub Battle Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-A-Leme&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-A-Leme&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter%20notebook" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-A-Leme&theme=github-compact" width="90%">
 </div>
 
 ---
 
-## 🚧 Projetos em Destaque
+## 🚀 Projetos Jedi
 
-> _"Que a força esteja com o seu portfólio..."_
+<div align="center">
+  
+| Projeto | Tecnologias | Status |
+|---------|-------------|--------|
+| [📊 Netflix Analytics Dashboard](https://github.com/...) | Power BI, DAX | ✅ Completo |
+| [🤖 Automatizador CNAB](https://github.com/...) | Python, Tkinter | 🚀 Em Evolução |
+| [⚡ Gerador de Relatórios](https://github.com/...) | Looker, Google Sheets | 🌟 Destaque |
 
-- 📊 [Dashboard estilo Netflix com Power BI](#)
-- 🧠 [Automatizador CNAB com Tkinter + Python](#)
-- ⚙️ [Gerador de Relatórios com Google Sheets + Looker](#)
+</div>
 
 ---
 
-## 🌐 Me encontre nas galáxias digitais:
+## 🌌 Conecte-se Comigo
 
-<div>
-  <a href="https://www.linkedin.com/in/matheus-leme/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-leme/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/Matheus-A-Leme" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>  
   <a href="mailto:Leme.matheus10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Matheus-A-Leme">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://discord.gg/4upjBF4z">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
 
 ---
 
-<p align="center">💡 “Não é sobre ser o melhor. É sobre nunca parar de evoluir.”</p>
+<p align="center">
+  <img src="https://i.picasion.com/pic91/9ebcb9e58ea82c0842562ca7a7d747f5.gif" width="150">
+  <br>
+  <em>"Que a Força dos Dados esteja com você!"</em>
+</p>
