@@ -42,9 +42,8 @@
   
 | Projeto | Tecnologias | Status |
 |---------|-------------|--------|
-| [📊 Netflix Analytics Dashboard](https://github.com/...) | Power BI, DAX | ✅ Completo |
-| [🤖 Automatizador CNAB](https://github.com/...) | Python, Tkinter | 🚀 Em Evolução |
-| [⚡ Gerador de Relatórios](https://github.com/...) | Looker, Google Sheets | 🌟 Destaque |
+| [📊 Finanças Analytics Dashboard](https://github.com/Matheus-A-Leme/Projetos_PowerBI/tree/main/Finanças) | Power BI, DAX | 🚀 Em Evolução |
+| [🤖 10 Programas Utilizando Python & Tkinter ](https://github.com/Matheus-A-Leme/Projetos_Python) | Python, Tkinter | ✅ Completo |
 
 </div>
 
