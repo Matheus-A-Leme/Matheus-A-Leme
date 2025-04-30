@@ -13,6 +13,7 @@
   
   🚀 Transformando dados em insights | ☕ Viciado em café e código
 </div>
+
 ---
 
 🛠️ Arsenal Tecnológico
@@ -22,6 +23,7 @@
 <div align="center"> <img src="https://img.shields.io/badge/DeepSeek-000000?style=flat-square&logo=ai&logoColor=white"> <img src="https://img.shields.io/badge/Grok_3-8A2BE2?style=flat-square&logo=x&logoColor=white"> <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"> </div>
 📚 Conhecimento Básico
 <div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white"> </div>
+
 ---
 
 ## 📊 GitHub Battle Stats
